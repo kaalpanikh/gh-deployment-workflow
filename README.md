@@ -76,7 +76,7 @@ If your deployment fails:
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
 - [Official GitHub Pages Actions](https://github.com/actions/configure-pages)
 
-blog published at nikhilmishra.live
+blog published at www.nikhilmishra.live
 
 ## License
 
